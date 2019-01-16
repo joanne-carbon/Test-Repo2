@@ -1,0 +1,10 @@
+boto3==1.6.05
+uwsgi==2.0.16
+protobuf==3.6.0
+penguin-client==4.3.0
+chewie-client==3.0.0
+chad-client==0.1.0
+champ-client==0.3.9
+guardian-client==0.15.9
+guardian-refreshing-client==0.2.0
+carbon-core[authorization, carbon-flask, database]==2.21.0
